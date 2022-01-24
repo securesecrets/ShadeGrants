@@ -1,5 +1,5 @@
 # Shade Grants
-This is the main repository for Shade Grant proposal submissions. This README provides a high level overview of Shade Grants. Please submit all Shade Grant requests by creating a new [issue](https://github.com/ShadeFoundation/Grants/issues). Welcome!
+This is the main repository for Shade Grant proposal submissions. This README provides a high level overview of Shade Grants. Please submit all Shade Grant requests by creating a new [issue](https://github.com/securesecrets/ShadeGrants/issues). Welcome!
 
 ## Proposal Categories
 Grant proposals fall primarily into four categories: **Integrations**, for everything that integrates Silk, SHD, or a Shade Protocol primitive directly; **Primitives**, for the creation of a novel or existing DeFi primitive under the Shade Protocol umbrella; and **Tooling**, for things that help developers or end users have a better experience with Shade Protocol; **Community**, for people, by people. Please consult the below list of ideas we’ve recognized to date as being of special interest to the community and essential to ongoing ecosystem growth. That said, we welcome any and all proposals and recognize that the most interesting proposals may be things the Shade community has yet to consider.
@@ -32,7 +32,7 @@ We are looking for individual developers, new and existing companies and project
 ### Recommended Process
 First, **ideation:** Use Shade dev discord to brainstorm, discuss ideas and form teams. We encourage you to get feedback from the community before submitting any application.
 
-Then, **application:** When ready, submit an application via the [Grants area of the Shade GitHub repository](https://github.com/ShadeFoundation/Grants/issues). Do this by opening a new issue in the format of [this sample application](https://github.com/ShadeFoundation/Grants/blob/main/Sample%20grant%20application).
+Then, **application:** When ready, submit an application via the [Grants area of the Shade GitHub repository](https://github.com/securesecrets/ShadeGrants/issues). Do this by opening a new issue in the format of [this sample application](https://github.com/ShadeFoundation/Grants/blob/main/Sample%20grant%20application).
 
 The application should cover the following details:
 
