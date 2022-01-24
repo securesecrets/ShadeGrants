@@ -5,7 +5,7 @@ This is the main repository for Shade Grant proposal submissions. This README pr
 Grant proposals fall primarily into four categories: **Integrations**, for everything that integrates Silk, SHD, or a Shade Protocol primitive directly; **Primitives**, for the creation of a novel or existing DeFi primitive under the Shade Protocol umbrella; and **Tooling**, for things that help developers or end users have a better experience with Shade Protocol; **Community**, for people, by people. Please consult the below list of ideas we’ve recognized to date as being of special interest to the community and essential to ongoing ecosystem growth. That said, we welcome any and all proposals and recognize that the most interesting proposals may be things the Shade community has yet to consider.
 
 ## Toolings
-** Transaction recorded** -  Shade Protocol tool that is helpful for taxes.
+* **Transaction recorder** -  Shade Protocol tool that is helpful for taxes.
 
 ### Primitives
 * **Insurance** to create a capital efficient insurance market for Shade Protocol DeFi risk.
@@ -14,6 +14,7 @@ Grant proposals fall primarily into four categories: **Integrations**, for every
 * **Integrate Silk with Alice or a Venmo like experience**
 
 ### Community 
+* **TBD**
 
 ## Grant Details
 Please review the following details before applying:
