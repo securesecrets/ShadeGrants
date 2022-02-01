@@ -44,7 +44,7 @@ The application should cover the following details:
 * Team: Please share all past experiences, github links and repos
 * Milestones and budget: Please provide a budget, development timelines for milestones and distribution of budget based on milestones.
 
-If you’d instead like to apply privately, please email info@scrtlabs.com with the above information.
+If you’d instead like to apply privately, please email securesecrets@securesecrets.org with the above information.
 
 ### Evaluation process
 We will review your application and get back to you with next steps (request for more information, schedule a video interview etc.) in two weeks.
