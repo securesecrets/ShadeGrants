@@ -33,7 +33,7 @@ We are looking for individual developers, new and existing companies and project
 ### Recommended Process
 First, **ideation:** Use Shade dev discord to brainstorm, discuss ideas and form teams. We encourage you to get feedback from the community before submitting any application.
 
-Then, **application:** When ready, submit an application via the [Grants area of the Shade GitHub repository](https://github.com/securesecrets/ShadeGrants/issues). Do this by opening a new issue in the format of [this sample application](https://github.com/SecretFoundation/Grants/blob/main/Sample%20grant%20application).
+Then, **application:** When ready, submit an application via the [Grants area of the Shade GitHub repository](https://github.com/securesecrets/ShadeGrants/issues). Do this by opening a new issue in the format of [this sample application](https://github.com/SecretFoundation/Grants/blob/main/Sample%20grant%20application) but with an obvious focus on Shade Protocol (instead of Secret Network like in the linked example).
 
 The application should cover the following details:
 
