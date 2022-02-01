@@ -28,12 +28,12 @@ Grant awards will be distributed in 3 or more installments, with initial payment
 All code must be open source. If there’s a good reason to make an exception, please specify this in your proposal, and emphasize which parts (if any) will be open source. Please mention the license you plan to use in your application.
 
 ### Who are we looking for
-We are looking for individual developers, new and existing companies and projects, community members or established teams with a proven track record to contribute to the Secret Network ecosystem ecosystem. Prior work on Shade Network or experience in deploying on Cosmos chains is a plus. 
+We are looking for individual developers, new and existing companies and projects, community members or established teams with a proven track record to contribute to the Shade Protocol ecosystem. Prior work on Secret Network or experience in deploying on Cosmos chains is a plus. 
 
 ### Recommended Process
 First, **ideation:** Use Shade dev discord to brainstorm, discuss ideas and form teams. We encourage you to get feedback from the community before submitting any application.
 
-Then, **application:** When ready, submit an application via the [Grants area of the Shade GitHub repository](https://github.com/securesecrets/ShadeGrants/issues). Do this by opening a new issue in the format of [this sample application](https://github.com/ShadeFoundation/Grants/blob/main/Sample%20grant%20application).
+Then, **application:** When ready, submit an application via the [Grants area of the Shade GitHub repository](https://github.com/securesecrets/ShadeGrants/issues). Do this by opening a new issue in the format of [this sample application](https://github.com/SecretFoundation/Grants/blob/main/Sample%20grant%20application).
 
 The application should cover the following details:
 
